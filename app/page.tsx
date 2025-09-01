@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Github, Linkedin, Mail, ExternalLink } from "lucide-react"
 
-export default function Portfolio() {
+export default function Page() {
   return (
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
